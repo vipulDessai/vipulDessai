@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ✨...✨...✨
+- 🔭 I’m currently working on ✨...🚗...🍉
 - 🌱 I’m currently learning Docker, Kubernetes, GraphQL
 - 👯 I’m looking to collaborate on JS related projects
 - 🤔 I’m looking for help with JS related projects
 - 💬 Ask me about ...
 - 📫 How to reach me: vipul.dessai@ymail.com | badgamerbad@gmail.com
-- ⚡ Fun fact: You can add the readme profile if you create a repo with your user name ✨
+- ⚡ Fun fact: You can add the readme profile if you create a repo with your user name➰
