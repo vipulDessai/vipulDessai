@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Docker, Kubernetes, GraphQL, Python
 - 👯 I’m looking to collaborate on JS, TS related projects
 - 🤔 I’m looking for help with `.(J|T)S$` related projects
-- 💬 Ask me about ...
+- 💬 Ask me about electronics :electron:, wood work 🪓 and i would be happy to share my insights
 - 📫 How to reach me: vipul.dessai@ymail.com | badgamerbad@gmail.com
 - ⚡ Fun fact: You can add the readme profile if you create a repo with your user name➰
