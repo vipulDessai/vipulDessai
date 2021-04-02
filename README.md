@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ✨...🚗...🍉
-- 🌱 I’m currently learning Docker, Kubernetes, GraphQL
-- 👯 I’m looking to collaborate on JS related projects
-- 🤔 I’m looking for help with JS related projects
+- 🌱 I’m currently learning Docker, Kubernetes, GraphQL, Python
+- 👯 I’m looking to collaborate on JS, TS related projects
+- 🤔 I’m looking for help with .(J|T)S$ related projects
 - 💬 Ask me about ...
 - 📫 How to reach me: vipul.dessai@ymail.com | badgamerbad@gmail.com
 - ⚡ Fun fact: You can add the readme profile if you create a repo with your user name➰
