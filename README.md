@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with `.(J|T)S$` related projects
 - 💬 Ask me about electronics :electron:, wood work 🪓 and i would be happy to share my insights
 - 📫 How to reach me: vipul.dessai@ymail.com | badgamerbad@gmail.com
-- ⚡ Fun fact: You can add the readme profile if you create a repo with your user name➰
+- ⚡ Fun fact: 
+  - You can add the readme profile if you create a repo with your user name➰
+  - Open any random repository and press <kbd>.</kbd> to open up VS code in browser 🌊
