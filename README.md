@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![@badgamerbad's Holopin board](https://holopin.me/badgamerbad)](https://holopin.io/@badgamerbad)
+
 - 🔭 I’m currently working on ✨...🚗...🍉
 - 🌱 I’m currently learning Docker, Kubernetes, GraphQL, Python
 - 👯 I’m looking to collaborate on JS, TS related projects
