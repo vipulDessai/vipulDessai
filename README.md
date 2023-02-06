@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning .NET, Docker, GraphQL, Python
 - 👯 I’m looking to collaborate on JS, TS related projects
 - 🤔 I’m looking for help with `.(J|T)S$` related projects
-- 💬 Ask me about electronics :electron:, wood work 🪓 and i would be happy to share my insights
+- 💬 Ask me about electronics :electron:, wood work 🪓 and i would be happy to share a little that i know about it
 - 📫 How to reach me: vipul.dessai@ymail.com | badgamerbad@gmail.com
 - 🕸️ Visit my "WEB" site [here](https://vipul-dessai.netlify.app/)
 - ⚡ Fun fact: 
