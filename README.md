@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![@badgamerbad's Holopin board](https://holopin.me/badgamerbad)](https://holopin.io/@badgamerbad)
 
 - 🔭 I’m currently working on ✨...🚗...🍉
-- 🌱 I’m currently learning Docker, Kubernetes, GraphQL, Python
+- 🌱 I’m currently learning .NET, Docker, GraphQL, Python
 - 👯 I’m looking to collaborate on JS, TS related projects
 - 🤔 I’m looking for help with `.(J|T)S$` related projects
 - 💬 Ask me about electronics :electron:, wood work 🪓 and i would be happy to share my insights
