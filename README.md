@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with `3D` related projects
 - 💬 Ask me about 🎮 development
 - 📫 How to reach me: vipul.dessai@ymail.com | badgamerbad@gmail.com
+- ✨ My Communities: [Patreon](https://www.patreon.com/3obsession) | [Discord](https://discord.gg/qYkPgjTPpu)
 - 🕸️ Visit my "WEB" site [here](https://vipul-dessai.netlify.app/)
 - ⚡ Fun fact: 
   - You can add the readme profile if you create a repo with your user name➰
