@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![@badgamerbad's Holopin board](https://holopin.me/badgamerbad)](https://holopin.io/@badgamerbad)
 
-- 🔭 I’m currently working on [3oblife](https://www.youtube.com/@3oblife)
+- 🔭 I’m currently working on [3oblife](https://www.youtube.com/@3ob.life)
 - 🌱 I’m currently learning `3D Art` | `Game Development` | `Animation`
 - 🤔 I’m looking for help with `3D` related projects
 - 💬 Ask me about 🎮 development
